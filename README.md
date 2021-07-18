@@ -1,8 +1,10 @@
 # Welcome to Anjum9694 Profile.
 
+## IT Technician, Network Technician, Electric Engineer and Amateur Radio
+
 <img src="https://github-readme-stats.vercel.app/api?username=Anjum9694&show_icons=true&theme=gotham" alt="github stats" width="45%" align="right"/>
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=Anjum9694&theme=dark" width="48%" >
-
+ ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kritika-pattalam&layout=compact)
 <!--
 **Anjum9694/Anjum9694** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
