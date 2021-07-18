@@ -1,6 +1,6 @@
-# Welcome to Anjum9694 Profile.
+# Welcome to Anjum9694 Profile
 
-## IT Technician, Network Technician, Electric Engineer and Amateur Radio
+## _IT Technician, Network Technician, Electric Engineer and Amateur Radio_
 ###### https://www.linkedin.com/in/anjum9694/
 
 <img src="https://i.imgur.com/RXpEYBD.jpg" width="425"/> <img src="https://i.imgur.com/KcnMJZB.jpg" width="425" height="566"/>
