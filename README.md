@@ -3,6 +3,8 @@
 ## IT Technician, Network Technician, Electric Engineer and Amateur Radio
 ###### https://www.linkedin.com/in/anjum9694/
 
+[img]https://i.imgur.com/RXpEYBD.jpg[/img]
+
 <img src="https://github-readme-stats.vercel.app/api?username=Anjum9694&show_icons=true&theme=gotham" alt="github stats" width="45%" align="right"/>
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=Anjum9694&theme=dark" width="48%" >
 
