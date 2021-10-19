@@ -5,7 +5,7 @@
 
 <img src="https://i.imgur.com/RXpEYBD.jpg" width="425"/> <img src="https://i.imgur.com/KcnMJZB.jpg" width="425" height="566"/>
 
-> -----BEGIN PGP PUBLIC KEY BLOCK-----
+`-----BEGIN PGP PUBLIC KEY BLOCK-----
 Comment: Recipient:   Mohamed Anjum
 Comment: Expires:     09/18/2023 12:00
 Comment: Type:	      3,072-bit RSA
@@ -50,7 +50,7 @@ dobZcZ0g5jZDrVm86eO8o8A7Bmk//UBDnC7NyVyxQkl4MCtdCcd1vRz+X7nouAd7
 Axj2YhTOK4GJCAtnW6S8ai+00wJ2jqOWrDQZRRnyRRGexx73Z+LOE2Wn5czGI0Uh
 +kaWdOO3snoABoTrvTiVtLOnrKnyjK41U635
 =pzXK
------END PGP PUBLIC KEY BLOCK-----
+-----END PGP PUBLIC KEY BLOCK-----`
 
 <img src="https://github-readme-stats.vercel.app/api?username=Anjum9694&show_icons=true&theme=gotham" alt="github stats" width="45%" align="right"/>
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=Anjum9694&theme=dark" width="48%" >
