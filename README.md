@@ -1,9 +1,9 @@
 # Welcome to Anjum9694 Profile
 
 ## _IT Technician, Network Technician, Electric Engineer and Amateur Radio_
-###### https://linkedin.com/in/anjum9694/
+###### 
 
-<img src="https://i.imgur.com/RXpEYBD.jpg" width="425"/> <img src="https://i.imgur.com/KcnMJZB.jpg" width="425" height="566"/>
+<img src="https://i.imgur.com/RXpEYBD.jpg" width="400"/> <img src="https://i.imgur.com/KcnMJZB.jpg" width="400" height="566"/>
 
 ```
 -----BEGIN PGP PUBLIC KEY BLOCK-----
