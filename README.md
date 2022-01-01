@@ -8,7 +8,7 @@
 ```
 -----BEGIN PGP PUBLIC KEY BLOCK-----
 Comment: Recipient:   Anjum
-Comment: Email:     4wnlo6om@githubanjum.anonaddy.com
+Comment: Email:       4wnlo6om@githubanjum.anonaddy.com
 Comment: Expires:     09/18/2023 12:00
 Comment: Type:	      3,072-bit RSA
 Comment: Fingerprint: 5E323ACA5126295322811D108C37459A2B3AAC10
