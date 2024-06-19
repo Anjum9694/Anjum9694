@@ -3,7 +3,7 @@
 ## _IT Technician, Network Technician, Electric Engineer and Amateur Radio_
 ###### 
 
-<img src="https://i.imgur.com/RXpEYBD.jpg" width="400"/> <img src="https://i.imgur.com/KcnMJZB.jpg" width="400" height="566"/>
+<img src="https://i.imgur.com/KcnMJZB.jpg" width="600" height="566"/>
 
 ```
 -----BEGIN PGP PUBLIC KEY BLOCK-----
